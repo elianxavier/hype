@@ -1,0 +1,7 @@
+[ -- Primeiro dia --] - 21/06
+
+- Entender o problema
+- Planejar a interface
+    - Escolher a paleta de cores
+    - Estilo do layout
+    - Com o figma, desenvolver a primeira tela
